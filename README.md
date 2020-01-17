@@ -1,0 +1,1 @@
+This repository is the POC for GRPC V/S REST (in C#).
